@@ -326,8 +326,7 @@
     width: 100%;
 }
 
-.full-width-img {
-    background-image: url('/img/background-header-2.jpg') ;    
+.full-width-img {  
     background-position: center right -20px;
     object-fit: contain;
     width: 100%;
@@ -428,7 +427,6 @@
 }
 
 .content-4__img {
-    background-image: url('/img/package-3.jpg');
     background-position: center;
     background-repeat: no-repeat;
     object-fit: contain;
@@ -694,7 +692,6 @@ footer {
     width: 100%;
     height: 100%;
     background-position: center;
-    background-image: url('/img/background-end.jpg') ;
 }
 
 .footer {
